@@ -1,6 +1,6 @@
-**This repository contains the Python analysis code used for "Ticket to Walk: How Jaywalking Enforcement Impacts Washingtonians," a research report that I authored for Transportation Choices Coalition.**
+**This repository contains the Python analysis code used for "Ticket to Walk: How Jaywalking Enforcement Impacts Washingtonians," a research report that I authored for [Transportation Choices Coalition](https://transportationchoices.org).**
 
-Please contact me at [ethanchenbell@gmail.com](mailto:ethanchenbell@gmail.com) if you have any questions regarding this code.
+Please contact me at [ethanchenbell@gmail.com](mailto:ethanchenbell@gmail.com) if you have any questions regarding this code. For more information on the campaign to reform jaywalking laws in Washington, see the [Free to Walk WA](https://freetowalkwa.org) coalition's website.
 
 ### Attribution:
 This code is freely available for reuse as described in the MIT License included in this repository. If using this code in a publication, I encourage you to provide the following citations:
