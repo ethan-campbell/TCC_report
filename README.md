@@ -3,7 +3,7 @@
 Please contact me at [ethanchenbell@gmail.com](mailto:ethanchenbell@gmail.com) if you have any questions regarding this code.
 
 ### Attribution:
-This code is freely available for reuse as described in the MIT License included in this repository. If using this code in a publication, we encourage you to provide the following citations:
+This code is freely available for reuse as described in the MIT License included in this repository. If using this code in a publication, I encourage you to provide the following citations:
 * **Report**: Campbell, E.C., "Ticket to walk: How jaywalking enforcement impacts Washingtonians," Transportation Choices Coalition (January 2024).
 * **Code archive**: Campbell, E.C., "Analysis code for 'Ticket to walk: How jaywalking enforcement impacts Washingtonians,'" GitHub (January 19, 2024; accessed <date>), [https://github.com/ethan-campbell/TCC_report](https://github.com/ethan-campbell/TCC_report).
 
