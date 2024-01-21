@@ -5,7 +5,7 @@ Please contact me at [ethanchenbell@gmail.com](mailto:ethanchenbell@gmail.com) i
 ### Attribution:
 This code is freely available for reuse as described in the MIT License included in this repository. If using this code in a publication, I encourage you to provide the following citations:
 * **Report**: Campbell, E.C., "Ticket to walk: How jaywalking enforcement impacts Washingtonians," Transportation Choices Coalition (January 2024).
-* **Code archive**: Campbell, E.C., "Analysis code for 'Ticket to walk: How jaywalking enforcement impacts Washingtonians,'" GitHub (January 19, 2024; accessed \[date]), [https://github.com/ethan-campbell/TCC_report](https://github.com/ethan-campbell/TCC_report).
+* **Code archive**: Campbell, E.C., "Analysis code for 'Ticket to walk: How jaywalking enforcement impacts Washingtonians,'" GitHub (January 21, 2024; accessed \[date]), [https://github.com/ethan-campbell/TCC_report](https://github.com/ethan-campbell/TCC_report).
 
 ### Description:
 * The Jupyter notebook `Washington_jaywalking_enforcement_analyses.ipynb` carries out processing, analysis, and visualization of the police stop and citation data, as described in the report (see in particular the methodology in Appendix B).
