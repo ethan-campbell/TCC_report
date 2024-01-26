@@ -4,7 +4,7 @@ Please contact me at [ethanchenbell@gmail.com](mailto:ethanchenbell@gmail.com) i
 
 ### Attribution:
 This code is freely available for reuse as described in the MIT License included in this repository. If using this code in a publication, I encourage you to provide the following citations:
-* **Report**: Campbell, E.C., "Ticket to walk: How jaywalking enforcement impacts Washingtonians," Transportation Choices Coalition (January 2024).
+* **Report**: Campbell, E.C., "Ticket to walk: How jaywalking enforcement impacts Washingtonians," Transportation Choices Coalition (January 2024), [https://freetowalkwa.org/data-black-people-disproportionately-targeted-for-jaywalking/](https://freetowalkwa.org/data-black-people-disproportionately-targeted-for-jaywalking/).
 * **Code archive**: Campbell, E.C., "Analysis code for 'Ticket to walk: How jaywalking enforcement impacts Washingtonians,'" GitHub (January 21, 2024; accessed \[date]), [https://github.com/ethan-campbell/TCC_report](https://github.com/ethan-campbell/TCC_report).
 
 ### Description:
